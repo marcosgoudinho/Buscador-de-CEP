@@ -1,6 +1,5 @@
     O projeto tem por finalidade buscar informações a partir do CEP.
-    (Inicialmente o tema do meu projeto seria um quiz, mas no meio do caminho eu resolvi mudar 
-    porque estava com dificuldade).
+    
 Rotas para requisição:
 
 - **Método:** GET
